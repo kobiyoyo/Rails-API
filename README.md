@@ -16,8 +16,8 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Getting started
 
-[Restful-Api Designing Guide lines](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
-http://techtales.co/2017/09/03/restful-api-designing-guidelines-best-practices/)
+[Restful Api Design Step by Step](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+[Restful Api Designing Guide Lines](http://techtales.co/2017/09/03/restful-api-designing-guidelines-best-practices)
 
 
 
