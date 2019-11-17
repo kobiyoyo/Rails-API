@@ -10,7 +10,7 @@ is available jointly under the MIT License and the Beerware License. See
 https://jsonapi.org/
 
 ## Basics
-[What are Apis ](https://www.youtube.com/watch?v=7YcW25PHnAA&feature=youtu.be)
+- [What are Apis ](https://www.youtube.com/watch?v=7YcW25PHnAA&feature=youtu.be)
 ## Getting started
 
 https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
@@ -19,9 +19,9 @@ http://techtales.co/2017/09/03/restful-api-designing-guidelines-best-practices/
 
 
 ## Step by Step Guide
-[Api Best Practices](https://medium.com/@kinsey/api-best-practices-41ba20e9d6f4)
-[Todo Api ](https://github.com/akabiru/todos-api)
-[Api On Rails](http://apionrails.icalialabs.com/book/chapter_one)
+- [Api Best Practices](https://medium.com/@kinsey/api-best-practices-41ba20e9d6f4)
+- [Todo Api ](https://github.com/akabiru/todos-api)
+- [Api On Rails](http://apionrails.icalialabs.com/book/chapter_one)
 
 ## Digging Deeper
 
