@@ -36,9 +36,13 @@ is available jointly under the MIT License and the Beerware License. See
 
 # Tools
 
+- [Swagger](https://medium.com/@sushildamdhere/how-to-document-rest-apis-with-swagger-and-ruby-on-rails-ae4e13177f5d)
 - [Active Model Serializer](https://github.com/rails-api/active_model_serializers/)
 - [Api Pagination](https://github.com/davidcelis/api-pagination)
 - [All Status Code](https://www.restapitutorial.com/httpstatuscodes.html)
 
+# Test
 
+- [PostMan](https://medium.com/@spaquet/testing-rails-5-api-with-postman-36f1e79dc4d)
+- [Curl](https://medium.com/@ConnorFinnegan/how-to-use-curl-to-test-a-rails-api-55fd2c43c999)
 
