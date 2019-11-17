@@ -12,12 +12,12 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Basics
 
-- [What are Apis ](https://www.youtube.com/watch?v=7YcW25PHnAA&feature=youtu.be)
+[What are Apis ](https://www.youtube.com/watch?v=7YcW25PHnAA&feature=youtu.be)
 
 ## Getting started
 
-https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
-http://techtales.co/2017/09/03/restful-api-designing-guidelines-best-practices/
+[Restful-Api Designing Guide lines](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+http://techtales.co/2017/09/03/restful-api-designing-guidelines-best-practices/)
 
 
 
